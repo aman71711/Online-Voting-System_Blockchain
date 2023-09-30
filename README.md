@@ -81,7 +81,7 @@ A brief explanation on the basic workflow of the application.
 6. Launch the development server (frontend)
 
    ```shell
-   cd client
+   cd voting_blockchain
    npm install
    npm start
    ```
