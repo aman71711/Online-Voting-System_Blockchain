@@ -50,7 +50,7 @@ A brief explanation on the basic workflow of the application.
 
    ```shell
    git clone https://github.com/aman71711/Online-Voting-System_Blockchain.git
-   cd voting_blockchain
+   cd client
    ```
 
 2. Run local Ethereum blockchain
@@ -81,7 +81,7 @@ A brief explanation on the basic workflow of the application.
 6. Launch the development server (frontend)
 
    ```shell
-   cd voting_blockchain
+   cd client
    npm install
    npm start
    ```
