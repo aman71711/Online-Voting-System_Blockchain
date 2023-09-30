@@ -9460,10 +9460,17 @@
       "links": {},
       "address": "0x6a448EdF9ed3Af046c457b803C1d1CeA5677Fb66",
       "transactionHash": "0xe7f9eb641cf5c8be0aeb7883a6a9ab662b4f8b42ad521a7f6ac59d6932b93f66"
+    },
+    "1696059997511": {
+      "events": {},
+      "links": {},
+      "address": "0x04c91bA9f651DE01624bb8e1FfFC87e5719a8A41",
+      "transactionHash": "0x543011fd742950daf6bd077acd29a6fd88b0942e0761e3d68db585333e1e10c2"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2023-09-30T07:29:43.180Z",
+  "updatedAt": "2023-09-30T07:49:30.214Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },
